@@ -16,7 +16,7 @@ Tool:
    Stampa Buzz
 
    ALTRIMENTI
-    scrivi il numero normalmente
+    stampa il numero normalmente
 
 
   
